@@ -12,6 +12,10 @@
 - `WorkspaceSettings.autoCreateSchemes` attribute https://github.com/tuist/xcodeproj/pull/399 by @pepibumur
 - Additional Swift 5 fixes: https://github.com/tuist/xcodeproj/pull/402 by @samisuteria
 
+### Removed
+
+- **Breaking** Reduced the amount of throwing from the public interface https://github.com/tuist/xcodeproj/pull/403 by @pepibumur.
+
 ## 6.7.0
 
 ### Changed
