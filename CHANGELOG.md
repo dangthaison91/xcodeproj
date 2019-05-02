@@ -5,6 +5,7 @@
 ### Changed
 
 - **Breaking** Renamed module from `xcodeproj` to `XcodeProj` https://github.com/tuist/xcodeproj/pull/398 by @pepibumur.
+- Rename some internal variables to have a more representative name https://github.com/tuist/xcodeproj/pull/415 by @pepibumur.
 
 ### Added
 
